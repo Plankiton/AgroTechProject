@@ -1,0 +1,9 @@
+{
+  "name": "BackEnd",
+  "version": "1.0.0",
+  "description": "a backend",
+  "main": "index.js",
+  "repository": "github.com/RoboCopGay/IFTO-Araguatins-Agro-2-A-2019",
+  "author": "Yaks Vinicios Silva Souza",
+  "license": "MIT"
+}
