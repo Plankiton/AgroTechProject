@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "610cceecc788742a8b225b76bcaecf95",
+    "revision": "781ade8dabc434e35b90e508ed286dec",
     "url": "/AgroTechProject/index.html"
   },
   {
