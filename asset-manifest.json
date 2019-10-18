@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/AgroTechProject/static/css/main.147fa733.chunk.css",
-    "main.js": "/AgroTechProject/static/js/main.5292bfd3.chunk.js",
-    "main.js.map": "/AgroTechProject/static/js/main.5292bfd3.chunk.js.map",
+    "main.js": "/AgroTechProject/static/js/main.1e380411.chunk.js",
+    "main.js.map": "/AgroTechProject/static/js/main.1e380411.chunk.js.map",
     "runtime-main.js": "/AgroTechProject/static/js/runtime-main.3da8db2a.js",
     "runtime-main.js.map": "/AgroTechProject/static/js/runtime-main.3da8db2a.js.map",
-    "static/js/2.573d791c.chunk.js": "/AgroTechProject/static/js/2.573d791c.chunk.js",
-    "static/js/2.573d791c.chunk.js.map": "/AgroTechProject/static/js/2.573d791c.chunk.js.map",
+    "static/js/2.acd17b56.chunk.js": "/AgroTechProject/static/js/2.acd17b56.chunk.js",
+    "static/js/2.acd17b56.chunk.js.map": "/AgroTechProject/static/js/2.acd17b56.chunk.js.map",
     "index.html": "/AgroTechProject/index.html",
-    "precache-manifest.67aec051b829d1a1a8b46eba57add43a.js": "/AgroTechProject/precache-manifest.67aec051b829d1a1a8b46eba57add43a.js",
+    "precache-manifest.4b9698a0a26d464b1ac82b082ae0f0ca.js": "/AgroTechProject/precache-manifest.4b9698a0a26d464b1ac82b082ae0f0ca.js",
     "service-worker.js": "/AgroTechProject/service-worker.js",
     "static/css/main.147fa733.chunk.css.map": "/AgroTechProject/static/css/main.147fa733.chunk.css.map",
     "static/media/camera.svg": "/AgroTechProject/static/media/camera.32bf7190.svg",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.3da8db2a.js",
-    "static/js/2.573d791c.chunk.js",
+    "static/js/2.acd17b56.chunk.js",
     "static/css/main.147fa733.chunk.css",
-    "static/js/main.5292bfd3.chunk.js"
+    "static/js/main.1e380411.chunk.js"
   ]
 }
